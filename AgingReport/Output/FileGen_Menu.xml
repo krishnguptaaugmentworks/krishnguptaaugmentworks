@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+<Menus>
+  <action type="add">
+			<Menu Checked="0" Enabled="1" FatherUID="43520" Position="8" String="Collection DashBoard" Type="2" UniqueID="MDC_MNU" Image="">
+				<Menus>
+					<action type="add">
+						<Menu Checked="0" Enabled="1" FatherUID="MDC_MNU" Position="1" String="Collection DashBoard" Type="1" UniqueID="MDC_MNU_GRP" Image="\Output\Resources\Logo.bmp" />						
+					</action>
+				</Menus>
+			</Menu>
+		</action>
+</Menus>
+</Application>

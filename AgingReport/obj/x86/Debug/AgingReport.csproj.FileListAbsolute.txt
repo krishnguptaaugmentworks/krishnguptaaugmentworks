@@ -1,0 +1,10 @@
+E:\Project\KK\AgingReport\AgingReport\obj\x86\Debug\Interop.SAPbobsCOM.dll
+E:\Project\KK\AgingReport\AgingReport\obj\x86\Debug\Interop.SAPbouiCOM.dll
+E:\Project\KK\AgingReport\AgingReport\obj\x86\Debug\AgingReport.csproj.ResolveComReference.cache
+E:\Project\KK\AgingReport\AgingReport\Output\AgingReport.exe.config
+E:\Project\KK\AgingReport\AgingReport\obj\x86\Debug\AgingReport.Properties.Resources.resources
+E:\Project\KK\AgingReport\AgingReport\obj\x86\Debug\AgingReport.csproj.GenerateResource.Cache
+E:\Project\KK\AgingReport\AgingReport\Output\AgingReport.exe
+E:\Project\KK\AgingReport\AgingReport\Output\AgingReport.pdb
+E:\Project\KK\AgingReport\AgingReport\obj\x86\Debug\AgingReport.exe
+E:\Project\KK\AgingReport\AgingReport\obj\x86\Debug\AgingReport.pdb

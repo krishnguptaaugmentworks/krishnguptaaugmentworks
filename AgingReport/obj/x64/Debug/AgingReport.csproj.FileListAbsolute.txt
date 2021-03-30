@@ -1,0 +1,31 @@
+E:\Project\KK\AgingReport\AgingReport\bin\x64\Debug\AgingReport.exe.config
+E:\Project\KK\AgingReport\AgingReport\Output\AgingReport.exe.config
+E:\Project\KK\AgingReport\AgingReport\Output\AgingReport.exe
+E:\Project\KK\AgingReport\AgingReport\Output\AgingReport.pdb
+E:\Project\KK\AgingReport\AgingReport\obj\x64\Debug\Interop.SAPbobsCOM.dll
+E:\Project\KK\AgingReport\AgingReport\obj\x64\Debug\Interop.SAPbouiCOM.dll
+E:\Project\KK\AgingReport\AgingReport\obj\x64\Debug\AgingReport.csproj.ResolveComReference.cache
+E:\Project\KK\AgingReport\AgingReport\obj\x64\Debug\AgingReport.Properties.Resources.resources
+E:\Project\KK\AgingReport\AgingReport\obj\x64\Debug\AgingReport.csproj.GenerateResource.Cache
+E:\Project\KK\AgingReport\AgingReport\obj\x64\Debug\AgingReport.exe
+E:\Project\KK\AgingReport\AgingReport\obj\x64\Debug\AgingReport.pdb
+D:\SHARED_FOLDER\INECOM SDK\StockTransfer v 01.01\AgingReport\AgingReport\Output\AgingReport.exe.config
+D:\SHARED_FOLDER\INECOM SDK\StockTransfer v 01.01\AgingReport\AgingReport\obj\x64\Debug\Interop.SAPbobsCOM.dll
+D:\SHARED_FOLDER\INECOM SDK\StockTransfer v 01.01\AgingReport\AgingReport\obj\x64\Debug\Interop.SAPbouiCOM.dll
+D:\SHARED_FOLDER\INECOM SDK\StockTransfer v 01.01\AgingReport\AgingReport\obj\x64\Debug\AgingReport.csproj.ResolveComReference.cache
+D:\SHARED_FOLDER\INECOM SDK\StockTransfer v 01.01\AgingReport\AgingReport\obj\x64\Debug\AgingReport.exe
+D:\SHARED_FOLDER\INECOM SDK\StockTransfer v 01.01\AgingReport\AgingReport\obj\x64\Debug\AgingReport.pdb
+D:\SHARED_FOLDER\INECOM SDK\StockTransfer v 01.01\AgingReport\AgingReport\Output\AgingReport.exe
+D:\SHARED_FOLDER\INECOM SDK\StockTransfer v 01.01\AgingReport\AgingReport\Output\AgingReport.pdb
+D:\SHARED_FOLDER\INECOM SDK\StockTransfer v 01.01\AgingReport\AgingReport\obj\x64\Debug\AgingReport.Properties.Resources.resources
+D:\SHARED_FOLDER\INECOM SDK\StockTransfer v 01.01\AgingReport\AgingReport\obj\x64\Debug\AgingReport.csproj.GenerateResource.Cache
+D:\SHARED_FOLDER\INECOM SDK\My SAP Work\HANA\Nexcomm\03042019\AgingReport\AgingReport\Output\AgingReport.exe.config
+D:\SHARED_FOLDER\INECOM SDK\My SAP Work\HANA\Nexcomm\03042019\AgingReport\AgingReport\obj\x64\Debug\Interop.SAPbobsCOM.dll
+D:\SHARED_FOLDER\INECOM SDK\My SAP Work\HANA\Nexcomm\03042019\AgingReport\AgingReport\obj\x64\Debug\Interop.SAPbouiCOM.dll
+D:\SHARED_FOLDER\INECOM SDK\My SAP Work\HANA\Nexcomm\03042019\AgingReport\AgingReport\obj\x64\Debug\AgingReport.csproj.ResolveComReference.cache
+D:\SHARED_FOLDER\INECOM SDK\My SAP Work\HANA\Nexcomm\03042019\AgingReport\AgingReport\obj\x64\Debug\AgingReport.exe
+D:\SHARED_FOLDER\INECOM SDK\My SAP Work\HANA\Nexcomm\03042019\AgingReport\AgingReport\obj\x64\Debug\AgingReport.pdb
+D:\SHARED_FOLDER\INECOM SDK\My SAP Work\HANA\Nexcomm\03042019\AgingReport\AgingReport\Output\AgingReport.exe
+D:\SHARED_FOLDER\INECOM SDK\My SAP Work\HANA\Nexcomm\03042019\AgingReport\AgingReport\Output\AgingReport.pdb
+D:\SHARED_FOLDER\INECOM SDK\My SAP Work\HANA\Nexcomm\03042019\AgingReport\AgingReport\obj\x64\Debug\AgingReport.Properties.Resources.resources
+D:\SHARED_FOLDER\INECOM SDK\My SAP Work\HANA\Nexcomm\03042019\AgingReport\AgingReport\obj\x64\Debug\AgingReport.csproj.GenerateResource.Cache
